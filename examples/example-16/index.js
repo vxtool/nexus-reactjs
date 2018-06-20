@@ -4,7 +4,7 @@ import { combineReducers, createStore } from 'redux';
 import { Provider } from 'react-redux';
 
 import counterReducer from './counter-reducer';
-import Counter from './counter';
+import Counter from './counter-component';
 
 const reducers = combineReducers({
   counter: counterReducer

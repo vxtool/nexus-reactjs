@@ -1,7 +1,5 @@
 # Example 4
 
-Exemplo básico com 2 componentes - [JSFIDDLE](https://jsfiddle.net/hemersonvianna/mhxrocwp/)
-
 ## Summary
 - **Documentation**
   - [Reselect](../../docs/RESELECT.md)

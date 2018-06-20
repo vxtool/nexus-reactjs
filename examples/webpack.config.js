@@ -1,27 +1,25 @@
-const webpack = require('webpack')
+const webpack = require('webpack');
+const path = require('path');
 
 module.exports = {
-  entry: './example-20/index.js',
+  mode: 'production',
+  entry: './example-16/index.js',
   output: {
-    path: __dirname + '/public',
+    path: path.resolve(__dirname, '/public'),
     filename: './bundle.js'
   },
   devServer: {
-    port: 8080,
+    port: 8000,
     contentBase: './public',
   },
   resolve: {
-    extensions: ['', '.js']
+    extensions: ['.js']
   },
   module: {
-    loaders: [{
-      test: /.js[x]?$/,
-      loader: 'babel-loader',
-      exclude: /node_modules/,
-      query: {
-        presets: ['es2015', 'react'],
-        plugins: ['transform-object-rest-spread']
-      }
+    rules: [{
+      test: /.js?$/,
+      use: 'babel-loader',
+      exclude: /node_modules/
     }]
   }
 }
