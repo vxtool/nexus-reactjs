@@ -42,9 +42,9 @@ npm start
 * entry (file `./examples/webpack.config.js`) - Ex: `entry: './example-16/index.js'`
 
 
-## Organizations
+## Projects
 
-## Facebook
+### Facebook
 
   - [Jest](https://github.com/facebook/jest)
   - [Create React APP](https://github.com/facebook/create-react-app)
