@@ -2,7 +2,7 @@
 
 ## Summary
 - **Documentation**
-  - [Reselect](../docs/RESELECT.md)
+  - [Reselect](../../docs/RESELECT.md)
   - Redux actions
 - **Examples**
   - Example 1
