@@ -1,5 +1,7 @@
 # Example 1
 
+Exemplo básico - [JSFIDDLE](https://jsfiddle.net/hemersonvianna/ow97vqpb/)
+
 ## Summary
 - **Documentation**
   - [Reselect](../../docs/RESELECT.md)

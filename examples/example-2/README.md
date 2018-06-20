@@ -1,4 +1,6 @@
-# Example 1
+# Example 2
+
+Exemplo básico com componente - [JSFIDDLE](https://jsfiddle.net/hemersonvianna/u2qdLhzf/)
 
 ## Summary
 - **Documentation**
