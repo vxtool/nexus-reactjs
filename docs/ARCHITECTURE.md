@@ -1,11 +1,25 @@
-# Redux Actions
+# Architecture
+
+## Com redux
+
+```sh
+└── component-name
+    ├── component-name/index.js
+    ├── component-name/component-name-actions.js
+    ├── component-name/component-name-component.js
+    ├── component-name/component-name-constants.js
+    ├── component-name/component-name-container.js
+    ├── component-name/component-name-reducer.js
+    ├── component-name/component-name-selector.js
+    └── component-name/component-name.test.js
+```
 
 ## Summary
 - **Documentation**
-  - [Architecture](./ARCHITECTURE.md)
+  - Architecture
   - [ImmutableJS](./IMMUTABLE.md)
   - [Patterns](./PATTERNS.md)
-  - Redux actions
+  - [Redux actions](./REDUX_ACTIONS.md)
   - [Reselect](./RESELECT.md)
   - [Technologies](./TECHNOLOGIES.md)
 - **Examples**

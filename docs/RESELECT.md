@@ -286,8 +286,12 @@ Dito isto, você é encorajado a usar funções de seletor e usar a biblioteca `
 
 ## Summary
 - **Documentation**
+  - [Architecture](./ARCHITECTURE.md)
+  - [ImmutableJS](./IMMUTABLE.md)
+  - [Patterns](./PATTERNS.md)
+  - [Redux actions](./REDUX_ACTIONS.md)
   - Reselect
-  - Redux actions
+  - [Technologies](./TECHNOLOGIES.md)
 - **Examples**
   - [Example 1](../examples/example-1)
   - [Example 2](../examples/example-2)
