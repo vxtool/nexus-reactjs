@@ -22,6 +22,26 @@
   - [Example 15](./examples/example-15)
   - [Example 16](./examples/example-16)
 
+## Examples
+
+```
+cd ./examples
+```
+
+### Install
+```
+npm install
+```
+
+### Usage
+```
+npm start
+// localhost:8000
+```
+
+* entry (file `./examples/webpack.config.js`) - Ex: `entry: './example-16/index.js'`
+
+
 ## Organizations
 
 ## Facebook
