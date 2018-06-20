@@ -1,5 +1,7 @@
 # Redux Actions
 
+ - [Ver documentação](https://github.com/redux-utilities/redux-actions/blob/master/docs/api/createAction.md)
+
 ## Summary
 - **Documentation**
   - [Architecture](./ARCHITECTURE.md)
