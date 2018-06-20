@@ -4,8 +4,12 @@ Exemplo básico com componente e props - [JSFIDDLE](https://jsfiddle.net/hemerso
 
 ## Summary
 - **Documentation**
+  - [Architecture](../../docs/ARCHITECTURE.md)
+  - [ImmutableJS](../../docs/IMMUTABLE.md)
+  - [Patterns](../../docs/PATTERNS.md)
+  - [Redux actions](../../docs/REDUX_ACTIONS.md)
   - [Reselect](../../docs/RESELECT.md)
-  - Redux actions
+  - [Technologies](../../docs/TECHNOLOGIES.md)
 - **Examples**
   - [Example 1](../example-1)
   - [Example 2](../example-2)

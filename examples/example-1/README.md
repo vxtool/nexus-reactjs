@@ -4,8 +4,12 @@ Exemplo básico - [JSFIDDLE](https://jsfiddle.net/hemersonvianna/ow97vqpb/)
 
 ## Summary
 - **Documentation**
+  - [Architecture](../../docs/ARCHITECTURE.md)
+  - [ImmutableJS](../../docs/IMMUTABLE.md)
+  - [Patterns](../../docs/PATTERNS.md)
+  - [Redux actions](../../docs/REDUX_ACTIONS.md)
   - [Reselect](../../docs/RESELECT.md)
-  - Redux actions
+  - [Technologies](../../docs/TECHNOLOGIES.md)
 - **Examples**
   - Example 1
   - [Example 2](../example-2)
@@ -23,3 +27,4 @@ Exemplo básico - [JSFIDDLE](https://jsfiddle.net/hemersonvianna/ow97vqpb/)
   - [Example 14](../example-14)
   - [Example 15](../example-15)
   - [Example 16](../example-16)
+
